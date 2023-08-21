@@ -1,0 +1,4 @@
+let product_list = []; document.querySelectorAll("CHANGETHIS").forEach(item => {let i = say.childNodes[1].attributes[1].value; product_list.push(i)}); product_list;
+
+
+//console.log(product_list)
